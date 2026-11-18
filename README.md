@@ -8,7 +8,7 @@ The portfolio is available in **English and Japanese**, reflecting my interest i
 
 🌐 **Live website:** [devbhargav.vercel.app](https://devbhargav.vercel.app/)
 
-💻 **Source code:** [GitHub repository](https://github.com/majordevbhargav/DevBhargav)
+💻 **Source code:** [GitHub repository](https://github.com/devbhargav10/DevBhargav)
 
 The site is deployed as a static website on Vercel.
 
@@ -54,7 +54,7 @@ The site is intentionally lightweight and does not require a JavaScript framewor
 Clone the repository:
 
 ```bash
-git clone https://github.com/majordevbhargav/DevBhargav.git
+git clone https://github.com/devbhargav10/DevBhargav.git
 cd DevBhargav
 ```
 
@@ -72,11 +72,11 @@ The portfolio links to selected work, including:
 
 | Project | Focus |
 |---|---|
-| [Endpoint-Posture-Java](https://github.com/majordevbhargav/Endpoint-Posture-Java) | Endpoint posture and compliance using Java, Spring Boot, and PostgreSQL |
-| [XDR](https://github.com/majordevbhargav/XDR) | Extended detection and response integrations and security automation |
-| [Ansible-Lan-Automation](https://github.com/majordevbhargav/Ansible-Lan-Automation) | Enterprise LAN automation |
-| [FlowWatch](https://github.com/majordevbhargav/FlowWatch) | NetFlow-based traffic analytics and anomaly detection |
-| [University_Deepcrawler](https://github.com/majordevbhargav/University_Deepcrawler) | Discovery of university professors, labs, and research themes |
+| [Endpoint-Posture-Java](https://github.com/devbhargav10/Endpoint-Posture-Java) | Endpoint posture and compliance using Java, Spring Boot, and PostgreSQL |
+| [XDR](https://github.com/devbhargav10/XDR) | Extended detection and response integrations and security automation |
+| [Ansible-Lan-Automation](https://github.com/devbhargav10/Ansible-Lan-Automation) | Enterprise LAN automation |
+| [FlowWatch](https://github.com/devbhargav10/FlowWatch) | NetFlow-based traffic analytics and anomaly detection |
+| [University_Deepcrawler](https://github.com/devbhargav10/University_Deepcrawler) | Discovery of university professors, labs, and research themes |
 
 For implementation details and current project status, refer to each project's repository.
 
@@ -91,7 +91,7 @@ No build command or output-directory compilation is required for this plain HTML
 For professional opportunities, project discussions, or research conversations:
 
 - [LinkedIn](https://www.linkedin.com/in/devbhargav100)
-- [GitHub](https://github.com/majordevbhargav)
+- [GitHub](https://github.com/devbhargav10)
 
 ---
 
